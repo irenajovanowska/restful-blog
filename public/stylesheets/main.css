@@ -1,0 +1,60 @@
+.ui.menu > .container .item {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ui.text.container {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.ui.button {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+}
+
+i.icon {
+    font-size: 1.3em;
+    font-weight: 200;
+}
+
+.container.main {
+    margin-top: 7em;
+}
+
+#delete {
+    display: inline;
+}
+
+body {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+p {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 1.2px;
+}
+
+span {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    letter-spacing: 1px;
+}
+
+.header.title {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 100px;
+}
+
+.huge.header {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+}
+
+.ui.items > .item > .content > .header.title {
+    font-family: Segoe UI, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 25px;
+}
